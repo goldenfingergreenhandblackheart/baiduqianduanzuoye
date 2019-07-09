@@ -1,0 +1,21 @@
+.nt {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.rn {
+    display: inline-block;
+}
+
+.dinfo, .drel {
+    display: inline-block;
+    margin-right: 2em;
+}
+
+.abh, .itemh, .eduh {
+    margin-bottom: 0;
+}
+
+.abp, .itemp, .edup {
+    margin-top: 0;
+}
