@@ -1,0 +1,43 @@
+.nt {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.rn {
+    display: inline-block;
+}
+
+.dinfo, .drel {
+    display: inline-block;
+    margin-right: 2em;
+}
+
+.abh, .itemh, .eduh {
+    margin-bottom: 0;
+}
+
+.abp, .itemp, .edup {
+    margin-top: 0;
+}
+
+.title {
+    width: 15%;
+    margin-bottom: -3000px;
+    padding-bottom: 3000px;
+    float: left;
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+}
+
+.content {
+    width: 83%;
+    margin-bottom: -3000px;
+    padding-bottom: 3000px;
+    float: right;
+}
+
+#container {
+    overflow: hidden;
+}
+

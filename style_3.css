@@ -1,0 +1,50 @@
+.nt, .abh, .eduh, .itemh {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.rn, .abp, .edup, .itemp{
+    display: inline-block;
+}
+
+.title h1{
+    background-color: darkgray;
+    color: white;
+    margin: 0;
+    padding: 20px 0 20px 20px;
+    border: grey 1px solid;
+}
+
+.conh {
+    border: white 1px solid;
+    width: 20%;
+    float: left;
+    height: 200px;
+    box-sizing: border-box;
+    background-color: grey;
+}
+
+.conh h2 {
+    text-align: center;
+}
+
+.info, .rel, .ability, .eduexp, .itemexp {
+    float: right;
+    margin: 0 auto;
+    width: 80%;
+    height: 200px;
+}
+
+.dinfo, .drel {
+    display: inline-block;
+    margin-right: 2em;
+}
+
+.con {
+    overflow: auto;
+    zoom: 1;
+    border: 1px solid grey;
+}
+
+
+
